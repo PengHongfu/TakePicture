@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TakePicture.iml" filepath="$PROJECT_DIR$/TakePicture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrayadapter/arrayadapter.iml" filepath="$PROJECT_DIR$/arrayadapter/arrayadapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/html_handle/html_handle.iml" filepath="$PROJECT_DIR$/html_handle/html_handle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/html_look/html_look.iml" filepath="$PROJECT_DIR$/html_look/html_look.iml" />
+      <module fileurl="file://$PROJECT_DIR$/image_show/image_show.iml" filepath="$PROJECT_DIR$/image_show/image_show.iml" />
+      <module fileurl="file://$PROJECT_DIR$/light/light.iml" filepath="$PROJECT_DIR$/light/light.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listview1/listview1.iml" filepath="$PROJECT_DIR$/listview1/listview1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listview_complex/listview_complex.iml" filepath="$PROJECT_DIR$/listview_complex/listview_complex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listview_magic/listview_magic.iml" filepath="$PROJECT_DIR$/listview_magic/listview_magic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/login/login.iml" filepath="$PROJECT_DIR$/login/login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/login2/login2.iml" filepath="$PROJECT_DIR$/login2/login2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/news_client/news_client.iml" filepath="$PROJECT_DIR$/news_client/news_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/normal/normal.iml" filepath="$PROJECT_DIR$/normal/normal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notification/notification.iml" filepath="$PROJECT_DIR$/notification/notification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/phonedail/phonedail.iml" filepath="$PROJECT_DIR$/phonedail/phonedail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sharedpreferences/sharedpreferences.iml" filepath="$PROJECT_DIR$/sharedpreferences/sharedpreferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simpleadapter/simpleadapter.iml" filepath="$PROJECT_DIR$/simpleadapter/simpleadapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqlite_creat/sqlite_creat.iml" filepath="$PROJECT_DIR$/sqlite_creat/sqlite_creat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqlite_shiwu/sqlite_shiwu.iml" filepath="$PROJECT_DIR$/sqlite_shiwu/sqlite_shiwu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqllite_api/sqllite_api.iml" filepath="$PROJECT_DIR$/sqllite_api/sqllite_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/usecount/usecount.iml" filepath="$PROJECT_DIR$/usecount/usecount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xml/xml.iml" filepath="$PROJECT_DIR$/xml/xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xml2/xml2.iml" filepath="$PROJECT_DIR$/xml2/xml2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/文件权限/文件权限.iml" filepath="$PROJECT_DIR$/文件权限/文件权限.iml" />
+      <module fileurl="file://$PROJECT_DIR$/获取sd卡大小/获取sd卡大小.iml" filepath="$PROJECT_DIR$/获取sd卡大小/获取sd卡大小.iml" />
+    </modules>
+  </component>
+</project>

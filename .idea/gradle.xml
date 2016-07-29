@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:/Android tools/gradle-2.14.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/arrayadapter" />
+            <option value="$PROJECT_DIR$/html_handle" />
+            <option value="$PROJECT_DIR$/html_look" />
+            <option value="$PROJECT_DIR$/image_show" />
+            <option value="$PROJECT_DIR$/light" />
+            <option value="$PROJECT_DIR$/listview1" />
+            <option value="$PROJECT_DIR$/listview_complex" />
+            <option value="$PROJECT_DIR$/listview_magic" />
+            <option value="$PROJECT_DIR$/login" />
+            <option value="$PROJECT_DIR$/login2" />
+            <option value="$PROJECT_DIR$/news_client" />
+            <option value="$PROJECT_DIR$/normal" />
+            <option value="$PROJECT_DIR$/notification" />
+            <option value="$PROJECT_DIR$/phonedail" />
+            <option value="$PROJECT_DIR$/sharedpreferences" />
+            <option value="$PROJECT_DIR$/simpleadapter" />
+            <option value="$PROJECT_DIR$/sqlite_creat" />
+            <option value="$PROJECT_DIR$/sqlite_shiwu" />
+            <option value="$PROJECT_DIR$/sqllite_api" />
+            <option value="$PROJECT_DIR$/usecount" />
+            <option value="$PROJECT_DIR$/xml" />
+            <option value="$PROJECT_DIR$/xml2" />
+            <option value="$PROJECT_DIR$/文件权限" />
+            <option value="$PROJECT_DIR$/获取sd卡大小" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/arrayadapter" />
+            <option value="$PROJECT_DIR$/html_handle" />
+            <option value="$PROJECT_DIR$/html_look" />
+            <option value="$PROJECT_DIR$/image_show" />
+            <option value="$PROJECT_DIR$/light" />
+            <option value="$PROJECT_DIR$/listview1" />
+            <option value="$PROJECT_DIR$/listview_complex" />
+            <option value="$PROJECT_DIR$/listview_magic" />
+            <option value="$PROJECT_DIR$/login" />
+            <option value="$PROJECT_DIR$/login2" />
+            <option value="$PROJECT_DIR$/news_client" />
+            <option value="$PROJECT_DIR$/normal" />
+            <option value="$PROJECT_DIR$/notification" />
+            <option value="$PROJECT_DIR$/phonedail" />
+            <option value="$PROJECT_DIR$/sharedpreferences" />
+            <option value="$PROJECT_DIR$/simpleadapter" />
+            <option value="$PROJECT_DIR$/sqlite_creat" />
+            <option value="$PROJECT_DIR$/sqlite_shiwu" />
+            <option value="$PROJECT_DIR$/sqllite_api" />
+            <option value="$PROJECT_DIR$/usecount" />
+            <option value="$PROJECT_DIR$/xml" />
+            <option value="$PROJECT_DIR$/xml2" />
+            <option value="$PROJECT_DIR$/文件权限" />
+            <option value="$PROJECT_DIR$/获取sd卡大小" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

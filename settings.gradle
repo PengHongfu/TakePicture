@@ -1,0 +1,1 @@
+include ':app', ':notification', ':light', ':phonedail', ':login', ':login2', ':获取sd卡大小', ':文件权限', ':sharedpreferences', ':xml', ':xml2', ':sqlite_creat', ':usecount', ':sqllite_api', ':sqlite_shiwu', ':listview1', ':listview_magic', ':listview_complex', ':arrayadapter', ':simpleadapter', ':html_look', ':html_handle', ':image_show', ':normal', ':news_client'
